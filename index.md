@@ -6,6 +6,9 @@ tags:
 level: 4
 
 region: Europe
+meetup-group: OWASP-Vienna-Chapter
+country: Austria
+postal-code: 
 
 ---
 
