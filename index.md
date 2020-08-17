@@ -19,7 +19,9 @@ Please check our schedule on our [Meetup](https://www.meetup.com/OWASP-Vienna-Ch
 ## Local News
 Please join our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/vienna-chapter) or [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) for the schedule of events.
 
-## Check our Upcoming Meetup Events:
+## Please check our [Meetup page](https://www.meetup.com/OWASP-Vienna-Chapter/)
+
+### Upcoming events
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
