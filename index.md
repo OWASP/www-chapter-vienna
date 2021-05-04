@@ -13,8 +13,7 @@ postal-code:
 ---
 
 ## Welcome to the homepage for the OWASP Chapter in Vienna.
-
-Please check our schedule on our [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) page.
+This is the page for the OWASP Chapter in Vienna Austria. Welcome!
 
 ## Local News
 Please join our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/vienna-chapter) or [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) for the schedule of events.
