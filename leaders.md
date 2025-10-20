@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Martin Haunschmid](mailto:martin.haunschmid@owasp.org)
+* [Christian Mehlmauer](mailto:christian.mehlmauer@owasp.org)
+* [Lennert Preuth](mailto:lennert.preuth@owasp.org)
