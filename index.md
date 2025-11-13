@@ -18,8 +18,7 @@ kostenlos unter einer freien Lizenz verwendbar.
 OWASP ist frei, offen und herstellerunabhängig. Alle Interessierten sind
 herzlich willkommen etwa in Projekten mitzuarbeiten oder nur am Wissen
 zu partizipieren. Eine prima Gelegenheit sich einen Eindruck zu
-verschaffen, sind die OWASP Stammtische, die regelmäßig in vielen
-deutschen Großstädten stattfinden.
+verschaffen, sind die OWASP-Stammtische, die regelmäßig in vielen Großstädten stattfinden.
 
 ## OWASP Vienna Chapter
 
