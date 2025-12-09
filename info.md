@@ -4,4 +4,4 @@
 
 ### Social Links
 
-- [Meetup](https://www.meetup.com/meetup-owasp-vienna-chapter/)
+- [Meetup](https://www.meetup.com/owasp-chapter-vienna/)
