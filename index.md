@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Vienna
 region: Europe
 country: Austria
-meetup-group: meetup-owasp-vienna-chapter
+meetup-group: security-meetup-by-sba-research
 ---
 
 ## Über OWASP
