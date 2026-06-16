@@ -6,6 +6,8 @@ country: Austria
 meetup-group: owasp-chapter-vienna
 ---
 
+![Vienna Chapter Logo](assets/images/owasp-vienna-logo.png)
+
 ## Über OWASP
 
 OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die
